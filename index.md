@@ -4,7 +4,7 @@ By putting in place a few simple conditions, organisations empower developers to
 This enables operational excellence and better outcomes for customers.
 
 This charter is intended as an opinionated checklist for organisations that care about a humane on-call experience.
-If you meet all eight conditions, then you are ready for a responsible on-call scheme.
+If you meet all eight conditions, then you are set up for a responsible on-call scheme.
 
 ## Policy
 
