@@ -25,3 +25,11 @@ This enables operational excellence and better outcomes for customers.
 
 This charter was written by [Chris Ford](https://github.com/ctford) following [Charity Majors' post on making sure that on-call doesn't suck](https://charity.wtf/2020/10/03/on-call-shouldnt-suck-a-guide-for-managers).
 Thank you to my [ThoughtWorks](https://www.thoughtworks.com/) colleagues who gave me feedback on the first draft.
+
+It's licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
