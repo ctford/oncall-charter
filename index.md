@@ -1,6 +1,10 @@
-Healthy on-call takes place in the context of a social contract that respects developers' time and personal lives.
-By putting in place a few simple conditions, organisations empower engineers to enthusiastically support their code in production.
+Healthy on-call takes place within the context of a social contract that respects developers' time and personal lives.
+
+By putting in place a few simple conditions, organisations empower developers to enthusiastically support their code in production.
 This enables operational excellence and better outcomes for customers.
+
+This charter is intended as an opinionated checklist for organisations that care about a humane on-call experience.
+If you meet all eight conditions, then you are ready for a responsible on-call scheme.
 
 ## Policy
 
