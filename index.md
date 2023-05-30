@@ -28,7 +28,7 @@ If you meet all eight conditions, then you are set up for a responsible on-call 
 - Teams practice collective code ownership and write sufficient documentation, so that someone who receives an alert has all the context that they need to respond.
 
 This charter was written by [Chris Ford](https://github.com/ctford) following [Charity Majors' post on making sure that on-call doesn't suck](https://charity.wtf/2020/10/03/on-call-shouldnt-suck-a-guide-for-managers).
-Thank you to my [ThoughtWorks](https://www.thoughtworks.com/) colleagues who gave me feedback on the first draft.
+Thank you to my [Thoughtworks](https://www.thoughtworks.com/) colleagues who gave me feedback on the first draft.
 
 It's licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
